@@ -1,0 +1,7 @@
+width,height,figureColor,type
+5,20,green,rectangle
+6,17,orange,smallTriangle
+2.5,17,orange,smallTriangle
+7,21,green,rectangle
+5,5,teal,square
+5,15,yellow,circle
